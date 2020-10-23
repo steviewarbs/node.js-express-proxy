@@ -12,6 +12,8 @@ app.use((req, res, next) => {
 app.get('/rest/sonar', (req, res) => {
   request(
     { url: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+
+    //Pull headers from postman or client
     
       headers : {
       "Authorization" : "XXXXXXXXXXXXXXXXXXXXXXX"
