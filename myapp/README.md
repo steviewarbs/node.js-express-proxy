@@ -9,7 +9,7 @@ Simply fork or copy the files into a local directory, be sure to npm init.
 Prerequisites
 
 Install npm install express --save
-Follow the guid here for a tutorial - https://expressjs.com/en/starter/installing.html 
+Follow the guide here for a tutorial - https://expressjs.com/en/starter/installing.html 
 
 
 Built With
